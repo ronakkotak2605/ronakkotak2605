@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ronak Kotak
-- 👀 I’m Data Science enthusiast with ~4 years of broad-based experience in building data-intensive applications, overcoming complex architectural and scalability issues. Proficient in predictive modelling, data processing and capable of creating, developing, testing and deploying highly adaptive diverse services to translate business qualifications into substantial deliverables.I am interested in Machine Learninig, Deep Learninig, Artificial Intelligence, Data Science and Data Analytics. 
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning.
+- 👀 I am results-driven Vice President at JPMorgan Chase, leading cross-functional data analytics & engineering team comprising data engineers, data scientists and data analysts with 7+ years of experience. I have proven track record in managing cross-regional teams, optimizing data processes and ensuring data integrity. Adept at leveraging technical expertise and leadership skills to deliver high-quality data solutions that drive business results.
+- 🌱 I’m currently learning PUBSUB Model, Kafka.
+- 💞️ I’m looking to collaborate on Data Engineering, Data Analytics and Machine Learning.
 - 📫 You can reach me @ ronakkotak1991@gmail.com 
 
 <!---
